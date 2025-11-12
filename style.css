@@ -119,7 +119,7 @@ div#output {
   font-weight: bold;
   text-align: center;
   font-size: 1.2rem;
-  word-wrap: break-word;
+  overflow-wrap: break-word;
   
 }
 img {
@@ -142,3 +142,4 @@ footer {
   color: var(--semo-black);
   border-top: 8px solid var(--semo-red);
 }
+
